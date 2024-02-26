@@ -1,0 +1,17 @@
+C:\Users\mustafa\Desktop\ArıBilgi\MarketKasaUygulamasi\bin\Debug\net8.0-windows\MarketKasaUygulamasi.exe
+C:\Users\mustafa\Desktop\ArıBilgi\MarketKasaUygulamasi\bin\Debug\net8.0-windows\MarketKasaUygulamasi.deps.json
+C:\Users\mustafa\Desktop\ArıBilgi\MarketKasaUygulamasi\bin\Debug\net8.0-windows\MarketKasaUygulamasi.runtimeconfig.json
+C:\Users\mustafa\Desktop\ArıBilgi\MarketKasaUygulamasi\bin\Debug\net8.0-windows\MarketKasaUygulamasi.dll
+C:\Users\mustafa\Desktop\ArıBilgi\MarketKasaUygulamasi\bin\Debug\net8.0-windows\MarketKasaUygulamasi.pdb
+C:\Users\mustafa\Desktop\ArıBilgi\MarketKasaUygulamasi\obj\Debug\net8.0-windows\MarketKasaUygulamasi.Form1.resources
+C:\Users\mustafa\Desktop\ArıBilgi\MarketKasaUygulamasi\obj\Debug\net8.0-windows\MarketKasaUygulamasi.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\ArıBilgi\MarketKasaUygulamasi\obj\Debug\net8.0-windows\MarketKasaUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\ArıBilgi\MarketKasaUygulamasi\obj\Debug\net8.0-windows\MarketKasaUygulamasi.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\ArıBilgi\MarketKasaUygulamasi\obj\Debug\net8.0-windows\MarketKasaUygulamasi.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\ArıBilgi\MarketKasaUygulamasi\obj\Debug\net8.0-windows\MarketKasaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\ArıBilgi\MarketKasaUygulamasi\obj\Debug\net8.0-windows\MarketKasaUygulamasi.dll
+C:\Users\mustafa\Desktop\ArıBilgi\MarketKasaUygulamasi\obj\Debug\net8.0-windows\refint\MarketKasaUygulamasi.dll
+C:\Users\mustafa\Desktop\ArıBilgi\MarketKasaUygulamasi\obj\Debug\net8.0-windows\MarketKasaUygulamasi.pdb
+C:\Users\mustafa\Desktop\ArıBilgi\MarketKasaUygulamasi\obj\Debug\net8.0-windows\MarketKasaUygulamasi.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\ArıBilgi\MarketKasaUygulamasi\obj\Debug\net8.0-windows\ref\MarketKasaUygulamasi.dll
+C:\Users\mustafa\Desktop\ArıBilgi\MarketKasaUygulamasi\obj\Debug\net8.0-windows\MarketKasaUygulamasi.Form2.resources
